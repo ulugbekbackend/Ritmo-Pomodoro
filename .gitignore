@@ -1,0 +1,19 @@
+node_modules/
+.next/
+dist/
+build/
+*.log
+.vite/
+
+# maxfiy ma'lumotlar
+.env
+.env.local
+.env.production
+*.pem
+*.key
+secrets/
+
+# ichki hujjatlar (faqat lokalda)
+docs/
+CLAUDE.local.md
+.claude/
